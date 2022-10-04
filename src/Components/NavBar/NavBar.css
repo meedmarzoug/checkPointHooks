@@ -1,0 +1,14 @@
+.h {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+
+.label{
+    padding: 10px;
+}
+
+.rate{
+    padding: 0px 15px;
+    
+}
